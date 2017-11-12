@@ -18,7 +18,7 @@ return ("You are not a teenager!")
 // function ternaryTeenager(age) {
 //
 // }
-// 
+//
 // function switchAge(age) {
 //
 // }
